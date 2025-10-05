@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 65.0,
+        "date": "2025-10-5",
+        "note": "dosa at shop",
+        "category": "food"
+    },
+    {
+        "amount": 55.0,
+        "date": "2025-10-5",
+        "note": "auto ride",
+        "category": "travel"
+    }
+]
